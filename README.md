@@ -1,4 +1,4 @@
-# SpotifiedSpot
+# spot
 ## Description
 Think you are a music connoisseur? Given a genre of your choice, could you identify an artist after only four seconds of a random song? Find out how you well you fare!
 
@@ -16,7 +16,7 @@ Think you are a music connoisseur? Given a genre of your choice, could you ident
 Test your knowledge or battle friends to see who is the ultimate music nerd!
 
 ## Installation
-Go to [our site](http://sarahwylie.github.io/SpotifiedSpot) and try your hand at our quiz!
+Go to [our site](http://sarahwylie.github.io/spot) and try your hand at our quiz!
 
 ## Teaser:
 ![Landing Page](./src/assets/Spot.png)
